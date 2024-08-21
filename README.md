@@ -2,9 +2,8 @@
 
 
 **natahernandez/natahernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pan ralladonatahernandez
-" alt="Pan ralladonatahernandez
-" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natahernandez" alt="natahernandez" /></a> </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
